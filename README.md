@@ -1,5 +1,5 @@
 # Credit Risk Analysis
-Applying Maching Learning to solve a real worl Credit Risk Analysis
+Applying Maching Learning to solve a real world Credit Risk Analysis
 
 ## Deliverables 
 
