@@ -15,4 +15,6 @@ Applying Maching Learning to solve a real world Credit Risk Analysis
 
 - Juptyer Notebook
 
+- Excel CSV file
+
 ## Analysis
